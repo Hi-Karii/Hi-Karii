@@ -1,4 +1,4 @@
-## Hobbies
-- Dancing:
-- Cooking:
-- Reading: 
+## Languages:
+- Spanish
+- English
+- Japanese
